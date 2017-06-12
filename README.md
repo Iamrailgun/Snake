@@ -1,2 +1,2 @@
 # Snake
-nake game on JS
+Snake game on JS
